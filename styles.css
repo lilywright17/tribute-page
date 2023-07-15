@@ -1,0 +1,41 @@
+body{
+  background-color: #FFF1F3;
+  color: #FF8C9C
+}
+
+h1, h3{
+  color: #FFC0CB
+}
+h1, p, figcaption, section {
+  font-family: sans-serif;
+}
+
+h1, p{ 
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;max-width: 100%
+}
+
+a{
+  color: #ffc0cb
+}
+
+img {
+  width: 400px;
+  height: 600px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption{
+  text-align: center'
+}
